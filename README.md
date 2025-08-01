@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redpandacodex" alt="redpandacodex" /></a> </p>
 
-- 🌱 I’m currently learning **Frameworks and Programming language**
+- 🌱 I’m currently learning: **Frameworks and Programming language**
 
-- 💬 Ask me about **Python, Arduino and Unreal engine**
+- 💬 Ask me about: **Python, Arduino and Unreal engine**
 
-- 📫 How to reach me **nicolasadrianpessol@gmail.com**
+- 📫 How to reach me: **nicolasadrianpessol@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1pBVJfbgm6crBkKeeYakdp6DS43gez8-yutcUsmsj5_0/edit?usp=sharing](https://docs.google.com/document/d/1pBVJfbgm6crBkKeeYakdp6DS43gez8-yutcUsmsj5_0/edit?usp=sharing)
+- 📄 Know about my experiences: [https://docs.google.com/document/d/1pBVJfbgm6crBkKeeYakdp6DS43gez8-yutcUsmsj5_0/edit?usp=sharing](https://docs.google.com/document/d/1pBVJfbgm6crBkKeeYakdp6DS43gez8-yutcUsmsj5_0/edit?usp=sharing)
 
 - ⚡ Fun fact **I'm a red panda lover!**
 
