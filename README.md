@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Nicolas Pessol Leal✨</h1>
-<h3 align="center">A frontend apprentice from valinhos (SP)</h3>
+<h3 align="center">🌍A frontend apprentice from valinhos (SP)🌍</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redpandacodex&label=Profile%20views&color=0e75b6&style=flat" alt="redpandacodex" /> </p>
 
