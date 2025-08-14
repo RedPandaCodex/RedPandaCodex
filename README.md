@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I'm a red panda lover!**
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nicolasadrianpessol@gmail.com) 
+[![email](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:nicolasadrianpessol@gmail.com)
 
 ## 🤝 Connect with me:
 [![linkedin](	https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nicolas-adrian-pessol-leal-854439270/)
