@@ -9,7 +9,7 @@
 
 - 💬 Ask me about: **Python🐍, Arduino🤖 and Unreal engine🎮**
 
-- 📄 Know about my experiences: [https://docs.google.com/document/d/1pBVJfbgm6crBkKeeYakdp6DS43gez8-yutcUsmsj5_0/edit?usp=sharing](https://docs.google.com/document/d/1pBVJfbgm6crBkKeeYakdp6DS43gez8-yutcUsmsj5_0/edit?usp=sharing)
+- 📄 Know about my experiences: [https://docs.google.com/document/d/1pBVJfbgm6crBkKeeYakdp6DS43gez8-yutcUsmsj5_0/edit?usp=sharing](https://docs.google.com/document/d/1qFsZDhwhTl64ICFfXXvjVRVt8vpvtMuDyJH0kZ3KA_g/edit?usp=sharing)
 
 - ⚡ Fun fact **I'm a red panda lover!**
 
