@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, my name is Nicolas Pessol Leal✨</h1>
+<div align="center">
+  <img src="https://cdn.dribbble.com/userupload/11328620/file/original-f830f868310985adc86cdddcaedea280.gif" witdh="200" height="400"/>
+</div>
+
+
 <h3 align="center">🌍A frontend apprentice from valinhos (SP)🌍</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redpandacodex&label=Profile%20views&color=FF5C00&style=flat" alt="redpandacodex" /> </p>
